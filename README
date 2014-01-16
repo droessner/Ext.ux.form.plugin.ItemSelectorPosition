@@ -1,2 +1,4 @@
 The ItemSelector ux in Ext doesn't have the functionality to position to a record in the boundlist by pressing a key on the keyboard.
 This plugin will add event handlers to both boundlists so that positioning to a record via a keypress works.
+
+Demo: https://fiddle.sencha.com/#fiddle/2n3
